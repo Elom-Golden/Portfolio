@@ -13,6 +13,20 @@ header {
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
 }
 
+h3 {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center; 
+}
+
+.prenom {
+    color:#ff79c6; 
+}
+
+.nom {
+    color: #50fa7b; 
+}
+
 nav ul {
     list-style: none;
     padding: 0;
